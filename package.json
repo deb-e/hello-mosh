@@ -2,7 +2,7 @@
   "name": "hello-mosh",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel", 
     "build": "parcel build"
